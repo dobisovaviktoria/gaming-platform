@@ -13,9 +13,9 @@ This is a meta repository for all the components needed to run the gaming platfo
 BanditGames is an emerging digital gaming platform dedicated to creating a vibrant, interactive space for board game enthusiasts. With a focus on innovation and user-centric experiences, the platform aims to provide a seamless environment where players can play and enjoy board games while engaging with friends and tracking their progress.
 
 ## All Components
-AI features repository: https://github.com/dobisovaviktoria/gaming-platform-AI-features
-Backend repository: https://github.com/dobisovaviktoria/gaming-platform-backend
-Frontend repository: https://github.com/dobisovaviktoria/gaming-platform-frontend
+- AI features repository: https://github.com/dobisovaviktoria/gaming-platform-AI-features
+- Backend repository: https://github.com/dobisovaviktoria/gaming-platform-backend
+- Frontend repository: https://github.com/dobisovaviktoria/gaming-platform-frontend
 
 ## Architecture
 
